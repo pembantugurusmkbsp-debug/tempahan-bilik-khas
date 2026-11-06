@@ -1,0 +1,12 @@
+{
+  "system_name": "Sistem Tempahan Bilik Khas & Fasiliti",
+  "organization": "SMK Bandar Seri Putra",
+  "version": "2.5.0",
+  "local_port": 8080,
+  "google_webapp_url": "https://script.google.com/macros/s/AKfycbwrvwCLTeCZfxX1VTo6wWFdqAsHC7scwusPTU0Xg7ylWY8p-Yn5wdm1ZTn1UaEYKmsU0Q/exec",
+  "google_sheet_url": "https://docs.google.com/spreadsheets/d/1RkjJUDeqg_wA7WH4w0ATg5zZMTkhYB1GTYtj-3bw88M/edit?gid=481844621#gid=481844621",
+  "spreadsheet_id": "1RkjJUDeqg_wA7WH4w0ATg5zZMTkhYB1GTYtj-3bw88M",
+  "admin_default_pin": "admin123",
+  "enable_local_storage_cache": true,
+  "auto_open_browser": true
+}
